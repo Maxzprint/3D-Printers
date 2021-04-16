@@ -1,3 +1,3 @@
 # 3D-Printers
-Maxzprint L and XL 3D Printers
-First public release of two years in R&D
+PrusaSlicer 2.3.0 portable plus a profile for Ender3 with automatic bed leveling (Bltouch)
+Chris Warkocki's pretty PLA profile. 
