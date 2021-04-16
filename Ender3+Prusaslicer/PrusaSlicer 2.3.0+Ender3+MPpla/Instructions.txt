@@ -1,0 +1,6 @@
+Copy the PrusaSlicer to a suitable location such as C drive. 
+Open the prusaslicer folder and locate prusa-slicer.exe, right click, send to, send to desktop (create shortcut).
+
+Run PrusaSlicer, go to file, Import Config, and browse to the folder yo downloaded, choose the Ender3withABL-Prusaslicer.ini file.
+
+PrusaSlicer is now ready to use.
